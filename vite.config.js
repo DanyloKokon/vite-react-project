@@ -8,5 +8,5 @@ export default defineConfig({
     environment: 'jsdom',
     setupFiles: ['./src/setupTests.js'],
   },
-  base: "/vite-react-app/",
+  base: "/vite-react-project/",
 });
